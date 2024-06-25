@@ -1,0 +1,48 @@
+[ 
+    {
+        "id": 1,
+        "title": "Technicien Informatique & SAV",
+        "description": "Création d une application Web mobile qui permet aux commerciaux de passer les commandes clients d'une façon plus facile(React,Redux,Node,Express,MSSQL,Cvs). Création d une application Web mobile(Mockup) qui permet aux commerciaux de passer les commandes clients d'une façon plus facile(Mern,Redux).Créer des demandes services pour la réparation des machines surSageX3.Saisir les pièces détachés sur SageX3 .Sortir la marchandises sur REDMINE pour le remplissage des distributeurs sur terrain.",
+        "category": "Informatique",
+        "Societe":"TopClass Lavazza",
+        "Date":"Du mai 2022 à aujourd'hui",
+        "image": "https://i.postimg.cc/76TWvbtJ/topclass.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Modérateur Web",
+        "description": "Modérer le site web maroc annonces , analyser les annonces entrant et éviter le passage des escrots et des annonces malvientes.",
+        "category": "Informatique",
+        "Societe":"Maroc annonce",
+        "Date":"Septembre 2021-Mai 2022",
+        "image": "https://i.postimg.cc/cHqcnhT6/Maroc-Annonce.png"
+    },
+    {
+        "id": 3,
+        "title": "Comptable",
+        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "category": "Economie et gestion",
+        "Societe":"GROUPE RMO",
+        "Date":"Fevrier 2019-Septembre 2019",
+        "image": "https://i.postimg.cc/yxjh2HKS/RmoMaroc.webp"
+    },
+    {
+        "id": 4,
+        "title": "Comptable",
+        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "category": "Economie et gestion",
+        "Societe":"Perfectlab SARL",
+        "Date":"Du mars 2017 à février 2019",
+        "image": "https://i.postimg.cc/zB1nBBXg/perfectlab.png"
+    },
+    {
+        "id": 5,
+        "title": "Stage en comptabilité",
+        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "category": "Economie et gestion",
+        "Societe":"Promalab SARL",
+        "Date":"Du octobre 2016 à février 2017",
+        "image": "https://i.postimg.cc/2SVd9MKV/promalab.png"
+        
+    }
+]
