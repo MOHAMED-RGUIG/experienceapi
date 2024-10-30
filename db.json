@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Technicien Informatique & SAV",
-        "description": "Création d une application Web mobile qui permet aux commerciaux de passer les commandes clients d'une façon plus facile(React,Redux,Node,Express,MSSQL,Cvs). Création d une application Web mobile(Mockup) qui permet aux commerciaux de passer les commandes clients d'une façon plus facile(Mern,Redux).Créer des demandes services pour la réparation des machines surSageX3.Saisir les pièces détachés sur SageX3 .Sortir la marchandises sur REDMINE pour le remplissage des distributeurs sur terrain.",
+        "description": "Création d une application Web mobile qui permet aux commerciaux de passer les commandes clients d'une façon plus facile(React,Redux,Node,Express,MSSQL,Cvs). Création d une application Web mobile qui permet la bonne gestion des taches des commerciaux de passer les commandes clients d'une façon plus facile(React,Node,Express,MSServer,Redux).Créer des demandes services pour la réparation des machines surSageX3.Saisir les pièces détachés sur SageX3 .Sortir la marchandises sur REDMINE pour le remplissage des distributeurs sur terrain.",
         "category": "Informatique",
         "Societe":"TopClass Lavazza",
         "Date":"Du mai 2022 à aujourd'hui",
@@ -19,8 +19,8 @@
     },
     {
         "id": 3,
-        "title": "Comptable",
-        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "title": "Administration & recouvrement",
+        "description": "Saisie des achats & des ventes.Remises des chèques.Traitement des réclamations client.Recouvrement",
         "category": "Economie et gestion",
         "Societe":"GROUPE RMO",
         "Date":"Fevrier 2019-Septembre 2019",
@@ -28,8 +28,8 @@
     },
     {
         "id": 4,
-        "title": "Comptable",
-        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "title": "Assistant recouvrement",
+        "description": "Saisie des achats & des ventes.Remises des chèques.Traitement des réclamations client.Recouvrement",
         "category": "Economie et gestion",
         "Societe":"Perfectlab SARL",
         "Date":"Du mars 2017 à février 2019",
@@ -37,8 +37,8 @@
     },
     {
         "id": 5,
-        "title": "Stage en comptabilité",
-        "description": "Declaration TVA.Saisie des achats & des ventes.Opèrations du bilan de la fin d'année.Traitement des réclamations client.Recouvrement",
+        "title": "Stage en recouvrement",
+        "description": "Saisie des achats & des ventes.Remises des chèques.Traitement des réclamations client.Recouvrement",
         "category": "Economie et gestion",
         "Societe":"Promalab SARL",
         "Date":"Du octobre 2016 à février 2017",
